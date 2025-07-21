@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore test data or large files
+*.csv
+*.log
+automatedTestEg.txt 
+ keyprotectionAPI.txt
+# Optional: requirements/dev-only files
+requirements-dev.txt
